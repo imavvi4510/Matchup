@@ -1,0 +1,15 @@
+{
+  "welcome": {
+    "title": "Welcome 👋!",
+    "subtitle": "help us to help you",
+    "paragraph": "Our AI engine will make sure to bring the profile best suited for you. you can also change it in settings",
+    "buttonText": "Set Prefrences"
+  },
+
+  "restricted": {
+    "title": "Plan limit reached",
+    "subtitle": "Your currrent plan restrict has reached its limit",
+    "paragraph": "Purchase/Upgrade your plan to continue",
+    "buttonText": "Buy now"
+  }
+}
